@@ -18,6 +18,7 @@ React.js is a JavaScript library for building dynamic user interfaces using reus
 Now that you know what React is and why it's useful, you'll learn how to make use of this library in your project.
 
 **STEP 1: Install Node.js**
+
 Before you start the React installation process, you must have Node.js installed on your computer. 
 
 You have to install Node first because React.js is a JavaScript library, and Node.js is a JavaScript runtime environment that allows you to run JavaScript on the server side. So when you're writing React, you include JavaScript functions in your React project, and then Node.js helps run this JavaScript code on the web page.
