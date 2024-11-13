@@ -52,4 +52,4 @@ Before installing React JS, you need to have the following software installed on
    - Open the project in your code editor (e.g., VS Code).
    - You can modify files within the `src` folder to customize your app.
 
-   ## With these steps, you have a fully functional React environment ready for development!
+   ### With these steps, you have a fully functional React environment ready for development!
