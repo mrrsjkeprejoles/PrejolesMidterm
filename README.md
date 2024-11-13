@@ -40,3 +40,9 @@ Before installing React JS, you need to have the following software installed on
 3. **Navigate to Your Project Directory**
    ```bash
    cd my-custom-react-app
+
+4. **Run the React App**
+   - Start the development server:
+   ```bash
+   npm start
+   - This will open your app in the browser, typically at (http://localhost:3000).
